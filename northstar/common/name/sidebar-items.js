@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["InvalidNameChar","Invalid character in name"],["Name","Name of a container"]]});

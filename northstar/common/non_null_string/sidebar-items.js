@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["InvalidNullChar","Null byte error"],["NonNullString","String that does not contain null bytes"]]});

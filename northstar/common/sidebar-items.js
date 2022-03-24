@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["container","API container identifier"],["name","Container name"],["non_null_string","String without null characters"],["version","Container version"]]});

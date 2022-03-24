@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["RepositoryType","Repository type"]],"mod":[["debug","Container debug facilities"]],"struct":[["Config","Runtime configuration"],["Debug","Container debug settings"],["Repository","Repository configuration"]]});
