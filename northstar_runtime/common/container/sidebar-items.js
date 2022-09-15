@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Container","Container identification"],["InvalidContainerError","Parsing error for container identifier"]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Output","Io redirection for stdout/stderr"]],"struct":[["Io","IO configuration for stdin, stdout, stderr"]]};

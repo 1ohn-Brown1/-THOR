@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["northstar_runtime"] = [{"text":"impl IntoEnumIterator for <a class=\"enum\" href=\"northstar_runtime/npk/manifest/console/enum.Permission.html\" title=\"enum northstar_runtime::npk::manifest::console::Permission\">Permission</a>","synthetic":false,"types":["northstar_runtime::npk::manifest::console::Permission"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

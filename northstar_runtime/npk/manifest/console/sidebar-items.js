@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Permission","Console features. Matches the api request struct and notifications"]],"struct":[["Configuration","Console Quality of Service"],["PermissionIter","An iterator over the variants of [Self]"],["Permissions","Console access level: list of allowed request message types"]]};

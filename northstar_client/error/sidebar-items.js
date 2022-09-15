@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["ClientError","Errors while creating client"],["FromEnvError","Errors for Client creation from env var"],["RequestError","API error"]],"struct":[["ConnectionError","Connection establishment error"]]};

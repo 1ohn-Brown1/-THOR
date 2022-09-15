@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["RLimitResource","Resource limits. See setrlimit(2)"]],"struct":[["RLimitValue","Value for a rlimit setting"]]};

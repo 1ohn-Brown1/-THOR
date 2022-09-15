@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["InvalidNulChar","Null byte error"],["NonNulString","String that does not contain null bytes"]]};

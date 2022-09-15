@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["northstar_client"] = [{"text":"impl&lt;T:&nbsp;AsyncRead + AsyncWrite + <a class=\"trait\" href=\"https://doc.rust-lang.org/1.63.0/core/marker/trait.Unpin.html\" title=\"trait core::marker::Unpin\">Unpin</a>&gt; Stream for <a class=\"struct\" href=\"northstar_client/struct.Client.html\" title=\"struct northstar_client::Client\">Client</a>&lt;T&gt;","synthetic":false,"types":["northstar_client::Client"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

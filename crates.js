@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["northstar_client","northstar_runtime"];

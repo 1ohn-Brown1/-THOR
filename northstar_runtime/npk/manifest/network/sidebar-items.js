@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Network","Container network configuration. Either join the host network or an existing network namespace. In order to create a new network namespace for the container, omit the network confuration in the manifest."]]};

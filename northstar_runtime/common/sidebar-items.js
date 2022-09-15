@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["container","API container identifier"],["name","Container name"],["non_nul_string","String without null characters"],["version","Container version"]]};

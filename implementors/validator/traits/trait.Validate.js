@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["northstar_runtime"] = [{"text":"impl Validate for <a class=\"struct\" href=\"northstar_runtime/npk/manifest/struct.Manifest.html\" title=\"struct northstar_runtime::npk::manifest::Manifest\">Manifest</a>","synthetic":false,"types":["northstar_runtime::npk::manifest::Manifest"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

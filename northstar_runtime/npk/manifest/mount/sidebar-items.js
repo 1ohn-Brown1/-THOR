@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Mount","Mounts"],["MountOption","Mount option"]],"struct":[["Bind","Bind mount configuration"],["MountOptions","Mount option set"],["Resource","Resource mount configuration"],["Tmpfs","Tmpfs configuration"]],"type":[["MountPoint","Mount point"]]};

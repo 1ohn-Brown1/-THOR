@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["framed","Framed wrapper"],["framed_with_max_length","Framed wrapper with a defined maximum line length"]],"struct":[["Codec","Newline delimited json"]],"type":[["Framed","Newline delimited json"]]};
